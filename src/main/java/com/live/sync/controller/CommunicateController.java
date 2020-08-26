@@ -8,6 +8,6 @@ public class CommunicateController {
 
     @GetMapping("/hello")
     String helloLive(){
-        return "We are live";
+        return "We are live :)";
     }
 }
